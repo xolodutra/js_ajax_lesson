@@ -6,3 +6,6 @@
 	color: red;
 }
 
+#result {
+    position: absolute;
+}
